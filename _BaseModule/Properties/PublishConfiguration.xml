@@ -1,0 +1,24 @@
+<Publish>
+  <ModId Value="" />
+  <DisplayName Value="Italian Signs (WE-Module)" />
+  <ShortDescription Value="A WriteEverywhere-Module that give the ability to place, create or edit Italian Signs" />
+  <LongDescription></LongDescription>
+  <Thumbnail Value="Properties/Thumbnail.png" />
+  <ForumLink Value="" />
+  <ModVersion Value="0.1.0" />
+  <GameVersion Value="1.*" />
+  <ChangeLog>Initial Early Release</ChangeLog>
+  <Tag Value="Code Mod" />
+  <Screenshot Value="Screenshots\Screenshot_1.jpg" />
+  <Screenshot Value="Screenshots\Screenshot_2.jpg" />
+  <Screenshot Value="Screenshots\Screenshot_3.jpg" />
+  <Screenshot Value="Screenshots\Screenshot_4.jpg" />
+  <Screenshot Value="Screenshots\Screenshot_5.jpg" />
+  <Screenshot Value="Screenshots\Screenshot_6.jpg" />
+  <Screenshot Value="Screenshots\Screenshot_7.jpg" />
+  <Screenshot Value="Screenshots\Screenshot_8.jpg" />
+  <Screenshot Value="Screenshots\Screenshot_9.jpg" />
+  <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
+  <Dependency Id="113261" ModVersion="" DisplayName="Highway Sign Structures" />
+  <ExternalLink Type="github" Url="https://github.com/UnMaestro/Maestros-CS2-ItalianSigns" />
+</Publish>
